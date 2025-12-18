@@ -1,0 +1,21 @@
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.map
+
+# Arduino IDE
+*.ino~
+*.pde~
+build/
+debug/
+
+# VS Code + PlatformIO
+.vscode/
+.pio/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
